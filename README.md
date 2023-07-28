@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ```js
-const turco877 = {
-  pronouns: "he" | "his",
+const turco777 = {
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components],
 
